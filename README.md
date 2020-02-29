@@ -2,4 +2,4 @@
 
 This is where I will practice all my C code
 
-on my free time.
+Currently I am very busy with school, so nothing new is added yet.
