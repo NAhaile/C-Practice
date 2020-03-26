@@ -10,7 +10,7 @@ int main() {
 	double var;
 	char buff[20];
 
-	printf("What is your Base Value? ")
+	printf("What is your Base Value? ") #<--- getting value from the user
 	fgets(buff, 20, stdin);
 	sscanf(buff, "%lf", &b);
   
