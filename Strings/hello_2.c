@@ -2,7 +2,7 @@
 #include <stdio.h> 
 
 int main() {
-  char str[] = "Hello World!";
+  char str[] = "Hello World!"; //this is to store a list of string characters so like it's really storing ['H','e','l',..]
   
   printf(str);
 
